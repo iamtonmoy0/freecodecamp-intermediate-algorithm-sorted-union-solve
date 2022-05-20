@@ -1,4 +1,4 @@
-# freecodecamp-intermediate-algorithm-sorted-union-solve-
+# freecodecamp-intermediate-algorithm-sorted-union-solve
 
 simply solved sorted union problem of free codecamp------
 Instructions:
